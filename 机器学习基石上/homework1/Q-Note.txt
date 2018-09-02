@@ -1,0 +1,7 @@
+Q4
+
+Semi-supervised learning is a class of supervised learning tasks and 
+techniques that also make use of unlabeled data for training.
+半监督学习是一类监督学习任务和技术，也使用未标记的数据进行训练
+
+参考: https://en.wikipedia.org/wiki/Semi-supervised_learning
